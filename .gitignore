@@ -1,0 +1,7 @@
+/.metadata/
+*.class
+backend/target/
+
+*.prefs
+backend/.idea/
+
