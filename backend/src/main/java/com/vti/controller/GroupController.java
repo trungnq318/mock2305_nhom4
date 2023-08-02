@@ -24,7 +24,7 @@ import com.vti.entity.Group;
 import com.vti.service.IGroupService;
 
 @RestController
-@RequestMapping(value = "api/v1/groups")
+@RequestMapping(value = "/api/v1/groups")
 public class GroupController {
 
 	@Autowired
